@@ -7,3 +7,6 @@ This repo includes a Convolutional Neural Network that results a 0.92 f1-score o
 This notebook was written on Google Colab, using GPU. The data is downloaded directly from Kaggle, using Kaggle API. You have to download your credentials json.
 
 ![alt text](https://github.com/matheuscoradini/COVID-19-Lung-Radiography-CNN-Kaggle/blob/master/lungs.PNG)
+
+
+![alt text](https://github.com/matheuscoradini/COVID-19-Lung-Radiography-CNN-Kaggle/blob/master/class-report.PNG)
