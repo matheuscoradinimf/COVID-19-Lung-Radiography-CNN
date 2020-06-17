@@ -10,4 +10,4 @@ This notebook was written on Google Colab, using GPU. The data is downloaded dir
 
 # Results
 
-![alt text](https://github.com/matheuscoradini/COVID-19-Lung-Radiography-CNN-Kaggle-Dataset/blob/master/classification-report-cnn.PNG)
+![alt text](https://github.com/matheuscoradini/COVID-19-Lung-Radiography-CNN-Kaggle-Dataset/blob/master/results.PNG)
