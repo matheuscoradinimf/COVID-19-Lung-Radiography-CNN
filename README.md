@@ -7,8 +7,9 @@ Also added 2 other fonts of xrays images:
 https://www.kaggle.com/raddar/tuberculosis-chest-xrays-shenzhen
 https://stanfordmlgroup.github.io/competitions/chexpert/
 
-Total images: 13575
+Total images: 13575,
 COVID: 219
+
 
 This notebook was written on Google Colab, using GPU. The data is downloaded directly from Kaggle, using Kaggle API.
 
